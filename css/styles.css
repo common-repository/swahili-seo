@@ -1,0 +1,16 @@
+#swahiliseo_keywords{width:100%;}
+#swahiliseo_description{width:100%;}
+p#swahiliseo_preview{line-height:10px;margin: 0;}
+#sw_post_title{font-size:18px;text-decoration: none;}
+#sw_post_permalink{text-decoration: none;}
+span#red {
+    color: red;
+}
+a#sw_post_permalink {
+    color: black;
+}
+#swahiliseo_preview{background-color:#efeceb; padding:10px;margin:10px;width:50%;border-radius:5px;
+}
+span#green {
+    color: green;
+}
